@@ -4,8 +4,8 @@ export default defineConfig({
   shopify: {
     defaultCountryCode: 'US',
     defaultLanguageCode: 'EN',
-    storeDomain: 'hydrogen-preview.myshopify.com',
-    storefrontToken: '3b580e70970c4528da70c98e097c2fa0',
+    storeDomain: 'legends-fifa-v1.myshopify.com',
+    storefrontToken: '086e7509a4b04c8a8820e15fb3bf07ee',
     storefrontApiVersion: '2022-07',
   },
   session: CookieSessionStorage('__session', {
